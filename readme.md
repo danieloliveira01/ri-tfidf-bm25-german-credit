@@ -236,8 +236,8 @@ Este código foi desenvolvido como parte do artigo:
 
 **Analissa Haga**
 
-Recuperação da Informação
-Prof Dr. Daniel Carlos Guimarães Pedronette
+Recuperação da Informação \
+Prof Dr. Daniel Carlos Guimarães Pedronette \
 
 PPGCC Unesp - 2026 
 
