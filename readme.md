@@ -1,6 +1,6 @@
 # Sistema de Recuperação da Informação para Identificação de Perfis de Crédito Semelhantes
 
-Autores:
+Autores:\
 Daniel de Oliveira Silva \
 Analissa Haga
 
