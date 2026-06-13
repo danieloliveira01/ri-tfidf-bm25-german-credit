@@ -1,8 +1,5 @@
 # Sistema de Recuperação da Informação para Identificação de Perfis de Crédito Semelhantes
 
-Autores:\
-Daniel de Oliveira Silva \
-Analissa Haga
 
 
 Este projeto apresenta a implementação de um Sistema de Recuperação da Informação (SRI) aplicado à identificação de perfis semelhantes de clientes em bases de crédito. A proposta consiste em transformar registros tabulares em documentos textuais, permitindo a utilização de técnicas clássicas de Recuperação da Informação para localizar clientes com características próximas às de uma consulta fornecida.
@@ -237,9 +234,12 @@ Este código foi desenvolvido como parte do artigo:
 
 **Daniel de Oliveira Silva**
 
-Curso Superior de Tecnologia em Ciência de Dados
+**Analissa Haga**
 
-Faculdade de Tecnologia (Fatec)
+Recuperação da Informação
+Prof Dr. Daniel Carlos Guimarães Pedronette
+
+PPGCC Unesp - 2026 
 
 ---
 
